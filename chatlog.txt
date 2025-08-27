@@ -1,0 +1,8 @@
+SERVER: Disha has joined the chat
+SERVER: Sandy has joined the chat
+SERVER: Anima has joined the chat
+Hi all
+jskdhfiuefh
+SERVER: Anima has left the chat
+SERVER: Disha has left the chat
+SERVER: Sandy has left the chat
